@@ -109,3 +109,4 @@ Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters
 - [Yasser Tahiri](https://github.com/yezz123) yezz123
 - [Elmehdi](https://twitter.com/elmahdibenrs) Chrollo
 - [Satan Stone](https://twitter.com/satan_stone) Satanstone
+- [Aymane MAZGUITI](https://www.facebook.com/HIHIBIMAMO) driplu 
